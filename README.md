@@ -1,2 +1,2 @@
 # joomla
-Joomla modules and utilities
+A collection of Joomla modules, plugins and utilities.
